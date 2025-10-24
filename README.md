@@ -53,14 +53,21 @@ I design circuits, code microcontrollers, build robotic arms, and sometimes drea
 ### 🏗️ Current Projects
   - 🔭 I’m currently working on **RoboticArm 3D CAD** – a SolidWorks model of my personal 6-axis manipulator.
   - 🌱 I’m currently learning Zenoh-Pico for distributed IoT
+
 ---
 
 ### 📊 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MetHope96&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MetHope96&theme=gruvbox)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=MetHope96&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MetHope96&layout=compact&theme=gruvbox)  
+
+---
 
 ### 📫 Reach Me
   - 📧 Email: mattia.dipaola@polito.it
   - LinkedIn: [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"/>](linkedin.com/in/mattia-dipaola-047700214)
+
+---
 
 ### ⚡ Fun Tip
 
