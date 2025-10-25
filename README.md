@@ -56,7 +56,7 @@ I design circuits, code microcontrollers, build robotic arms, and sometimes drea
 ---
 
 ### 📊 GitHub Stats
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MetHope96&theme=gruvbox)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MetHope96&theme=gruvbox)  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MetHope96&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MetHope96&layout=compact&theme=gruvbox)  
 
