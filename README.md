@@ -14,11 +14,13 @@ I design circuits, code microcontrollers, build robotic arms, and sometimes drea
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="ROS" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg"/>
 <img align="left" alt="Zenoh" width="100px" style="padding-right:10px;" src="https://raw.githubusercontent.com/eclipse-zenoh/zenoh/master/zenoh-dragon.png"/>
 <br clear="left"/>
 
 ### Electronics & Embedded Systems
 <img align="left" alt="KiCad" width="60px" style="padding-right:10px;" src="https://github.com/kicad/.github/blob/main/images/kicad_logo_small.png?raw=true"/>
+<img align="left" alt="LTspice" width="36px" style="padding-right:10px;" src="https://logo.svgcdn.com/simple-icons/ltspice-dark.svg"/>
 <img align="left" alt="PlatformIO" width="120px" style="padding-right:10px;" src="https://img.shields.io/badge/PlatformIO-000000?style=for-the-badge&logo=platformio&logoColor=white"/>
 <img align="left" alt="Raspberry Pi" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
 <img align="left" alt="Arduino" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
@@ -28,7 +30,6 @@ I design circuits, code microcontrollers, build robotic arms, and sometimes drea
 
 <img align="left" alt="SolidWorks" width="60px" style="padding-right:10px;" src="https://1000logos.net/wp-content/uploads/2020/08/SolidWorks-Logo.jpg"/>
 <img align="left" alt="MATLAB" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-<img align="left" alt="ROS" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg"/>
 <img align="left" alt="Blender" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>
 <img align="left" alt="Blender" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fusion/fusion-original.svg"/>
 <img align="left" alt="Blender" width="36px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg"/>
